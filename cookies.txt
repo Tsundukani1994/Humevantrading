@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+Humevanforex.co.za	TRUE	/	FALSE	1999999999	PHPSESSID	8c8e6498b679a41d4399e6e8f96eac82
+
